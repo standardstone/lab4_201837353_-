@@ -1,8 +1,8 @@
-###pwd: shows the current path in a hierarchical directory 
+### pwd: shows the current path in a hierarchical directory 
 
-###cd: change directory
+### cd: change directory
 
-###ls: list files and directories
+### ls: list files and directories
 #### More on ls
 
 ```sh
@@ -11,8 +11,8 @@ ls -l List the files in the working directory in long format
 ls -l /etc/bin List the files in the /bin directory and the /etc directory in long format
 ls -la .. List all files
 ```
-###Shell command: clear
-###cp: copy files and directories
+### Shell command: clear
+### cp: copy files and directories
 #### More on  cp
 ```sh
 cp file1 file2 copies the contents of file1 into file2. If file2 does not exist, it is created; otherwise, file2 is silently overwritten with the contents of file1.
